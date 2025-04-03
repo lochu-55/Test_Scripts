@@ -1,1 +1,1 @@
-# MMC_Test_Scripts
+# Test Scripts of PCIE and SD/MMC
